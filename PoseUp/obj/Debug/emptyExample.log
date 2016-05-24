@@ -1,0 +1,26 @@
+﻿Build started 15/06/2015 13:58:38.
+     1>Project "C:\of_v0.8.0_vs_release\apps\myApps\PoseUp\emptyExample.vcxproj" on node 2 (Build target(s)).
+     1>Link:
+         emptyExample.vcxproj -> C:\of_v0.8.0_vs_release\apps\myApps\PoseUp\bin\kinectBase_debug.exe
+       PostBuildEvent:
+         xcopy /e /i /y "C:\of_v0.8.0_vs_release\apps\myApps\PoseUp\..\..\..\export\vs\*.dll" "C:\of_v0.8.0_vs_release\apps\myApps\PoseUp\bin"
+         xcopy /e /i /y "C:\of_v0.8.0_vs_release\apps\myApps\PoseUp\..\..\..\addons\ofxKinectCommonBridge\libs\KinectCommonBridge\lib\windows\*.dll" "C:\of_v0.8.0_vs_release\apps\myApps\PoseUp\bin"
+         
+         :VCEnd
+         C:\of_v0.8.0_vs_release\apps\myApps\PoseUp\..\..\..\export\vs\Assimp32.dll
+         C:\of_v0.8.0_vs_release\apps\myApps\PoseUp\..\..\..\export\vs\fmodex.dll
+         C:\of_v0.8.0_vs_release\apps\myApps\PoseUp\..\..\..\export\vs\fmodexL.dll
+         C:\of_v0.8.0_vs_release\apps\myApps\PoseUp\..\..\..\export\vs\FreeImage.dll
+         C:\of_v0.8.0_vs_release\apps\myApps\PoseUp\..\..\..\export\vs\FreeType-6.dll
+         C:\of_v0.8.0_vs_release\apps\myApps\PoseUp\..\..\..\export\vs\glut32.dll
+         C:\of_v0.8.0_vs_release\apps\myApps\PoseUp\..\..\..\export\vs\libeay32.dll
+         C:\of_v0.8.0_vs_release\apps\myApps\PoseUp\..\..\..\export\vs\ssleay32.dll
+         C:\of_v0.8.0_vs_release\apps\myApps\PoseUp\..\..\..\export\vs\Zlib.dll
+         9 archivo(s) copiado(s)
+         C:\of_v0.8.0_vs_release\apps\myApps\PoseUp\..\..\..\addons\ofxKinectCommonBridge\libs\KinectCommonBridge\lib\windows\KinectCommonBridge.dll
+         1 archivo(s) copiado(s)
+     1>Done Building Project "C:\of_v0.8.0_vs_release\apps\myApps\PoseUp\emptyExample.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.04
